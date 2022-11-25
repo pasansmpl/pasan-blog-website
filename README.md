@@ -1,1 +1,1 @@
-This is a pasan blog posts
+This is a pasan blog web site
